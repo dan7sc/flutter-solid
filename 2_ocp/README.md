@@ -1,8 +1,12 @@
 # OCP - Open/Closed Principle
-Esse princípio foi cunhado por Bertrand Meyer, que é:</br>
-Artefatos de software (módulos, classes, funções, etc..)</br>
-devem estar abertos para extensão, mas fechadas para modificação;</br>
-Quando novos comportamentos e recursos precisam ser adicionados</br>
+Esse princípio foi cunhado por Bertrand Meyer, que é:
+</br></br>
+`
+Artefatos de software (módulos, classes, funções, etc..)
+devem estar abertos para extensão, mas fechadas para modificação;
+`
+</br></br>
+Quando novos comportamentos e recursos precisam ser adicionados
 no software, devemos estender e não alterar o código fonte original.
 
 ## Exemplo

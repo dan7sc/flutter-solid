@@ -1,9 +1,13 @@
 # LSP - Liskov Substitution Principle
 Definido por Barbara Liskov:
-"Se para cada objeto o1 do tipo S há um objeto o2 do tipo T de forma que,</br>
-para todos os programas P definidos em termos de T, o comportamento de P é</br>
-inalterado quando o1 é substituído por o2 então S é um subtipo de T"</br>
-Os objetos podem ser substituídos por seus subtipos sem que isso afete</br>
+</br></br>
+`
+"Se para cada objeto o1 do tipo S há um objeto o2 do tipo T de forma que,
+para todos os programas P definidos em termos de T, o comportamento de P é
+inalterado quando o1 é substituído por o2 então S é um subtipo de T"
+`
+</br></br>
+Os objetos podem ser substituídos por seus subtipos sem que isso afete
 a execução correta do programa.
 
 ## Exemplo

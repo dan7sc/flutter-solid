@@ -1,5 +1,5 @@
 # DIP - Dependency Inversion Principle
-Um módulo de alto nível não deve depender de módulos de baixo nível,</br>
+Um módulo de alto nível não deve depender de módulos de baixo nível,
 ou seja, não depender de nada de concreto (implementação), apenas abstrações
 
 ## Exemplo
@@ -13,7 +13,7 @@ ou seja, não depender de nada de concreto (implementação), apenas abstraçõe
 ## Principais ganhos
   - Código desacoplado;
   - As dependências podem ser imutáveis;
-  - O principio torna o aplicação focada na resolução dos problemas,
+  - O principio torna a aplicação focada na resolução dos problemas,
     fazendo da implementação um mero detalhe;
   - Identificar as abstrações é importante para que mantenhamos
     o projeto flexível, robusto;

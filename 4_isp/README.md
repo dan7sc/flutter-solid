@@ -1,5 +1,5 @@
 # ISP - Interface Segregation Principle
-Clientes não devem ser forçãdos a depender de métodos que não usam.</br>
+Clientes não devem ser forçados a depender de métodos que não usam.</br>
 Muitas interfaces específicas são melhores do que uma interface única.
 
 ## Exemplo

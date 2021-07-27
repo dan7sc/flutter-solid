@@ -1,6 +1,6 @@
 # SRP - Single Responsability Principle
 Um módulo deve ter um, e apenas um, motivo para ser modificado;</br>
-Não significa que cada classe deve fazer apenas uma coisa, mas deve</br>
+Não significa que cada classe deve fazer apenas uma coisa, mas deve
 mudar sempre que houver alguma mudança relacionada ao seu contexto;
 
 ## Exemplo
